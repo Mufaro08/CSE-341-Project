@@ -1,0 +1,23 @@
+{
+  "name": "cse-341-project",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mufaro08/CSE-341-Project.git"
+  },
+  "author": "Mufaro Justice Tapera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mufaro08/CSE-341-Project/issues"
+  },
+  "homepage": "https://github.com/Mufaro08/CSE-341-Project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
